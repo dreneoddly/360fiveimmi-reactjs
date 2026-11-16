@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360">
+  <defs>
+    <linearGradient id="water" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b9dce2"/><stop offset="1" stop-color="#82bac4"/></linearGradient>
+    <pattern id="blocks" width="82" height="58" patternUnits="userSpaceOnUse"><rect width="82" height="58" fill="#d9d7cd"/><path d="M3 4h72v47H3z" fill="#e9e6db" stroke="#c1bfb5" stroke-width="2"/><path d="M10 12h56M10 22h56M10 32h42" stroke="#c5c4bc" stroke-width="2"/></pattern>
+  </defs>
+  <rect width="720" height="360" fill="#d6d7cf"/>
+  <path d="M0 260C100 212 160 260 228 222c61-35 80-112 160-119 72-6 105 57 162 82 64 28 108 2 170-45v220H0z" fill="url(#water)"/>
+  <path d="M0 42 720 305M-40 286 680 0M308-30l60 420M90-20l125 400" fill="none" stroke="#fff" stroke-width="22"/>
+  <path d="M0 42 720 305M-40 286 680 0M308-30l60 420M90-20l125 400" fill="none" stroke="#e9b4a7" stroke-width="3"/>
+  <rect x="18" y="25" width="278" height="194" fill="url(#blocks)" transform="rotate(7 18 25)"/>
+  <rect x="394" y="38" width="320" height="192" fill="url(#blocks)" transform="rotate(-8 394 38)"/>
+  <path d="M337 208c35-51 77-55 115-8" fill="none" stroke="#ef6d5d" stroke-width="6"/>
+  <circle cx="402" cy="187" r="20" fill="#ed1b24" stroke="#fff" stroke-width="6"/>
+  <path d="M402 176v22M391 187h22" stroke="#fff" stroke-width="3"/>
+  <text x="430" y="185" fill="#414141" font-family="Arial,sans-serif" font-size="17" font-weight="700">Morgan Tower</text>
+  <text x="40" y="300" fill="#4f666b" font-family="Arial,sans-serif" font-size="16">Koh Pich</text>
+  <text x="535" y="322" fill="#4f666b" font-family="Arial,sans-serif" font-size="14">Phnom Penh</text>
+</svg>
